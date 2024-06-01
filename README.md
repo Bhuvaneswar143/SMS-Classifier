@@ -1,7 +1,6 @@
 
 
-# Neural Network SMS Text Classifier
-This repository contains my solution approach from the  [FreeCodeCamp](https://www.freecodecamp.org/learn/) Machine Learning with Python Project - [SMS Text Classifier](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/neural-network-sms-text-classifier) challenge. ( ⭐️ Star repo on GitHub — it helps! )
+
 
 <img src="https://miro.medium.com/max/700/1*Fm58r_RQ53sEHfwFa28LpA.png" align="center" height=80% width = 90%>
  
@@ -61,9 +60,7 @@ To run the project, do the following steps:
     Test Dataset Accuracy:
     loss: 0.1043 - accuracy: 0.9662
 
-## Contributors
 
-- Rohit Kumar Singh
 
 ## Feedback
 Feel free to send us feedback on [file an issue](https://github.com/RohitLearner/SMS-Text-Classifier/issues). Feature requests are always welcome. If you wish to contribute, please take a quick look at this [colab](https://colab.research.google.com/drive/1F6T2j8A17jZgANg4iHlePa7hH5TKxZgw#scrollTo=Dxotov85SjsC).
